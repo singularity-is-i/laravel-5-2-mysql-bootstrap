@@ -1,0 +1,17 @@
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+.env
+*.swp
+
+
+composer
+composer.phar
+/vendor
+
+*.sqlite
+.DS_Store
+.vagrant
+.lock
+.idea
+
