@@ -12,8 +12,5 @@
       "description": "Sample environment var",
       "required": false
     }
-  },
-  "scripts": {
-    "postdeploy": ""
   }
 }
